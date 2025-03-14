@@ -1,5 +1,5 @@
 import React from 'react'
-import profile from '../assets/coder.png'
+import profile from '../assets/Coder.png'
 import { ABOUT_TEXT } from '../constants/index'
 import {motion} from 'framer-motion'
 
